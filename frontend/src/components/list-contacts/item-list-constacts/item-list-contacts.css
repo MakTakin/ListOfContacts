@@ -1,0 +1,19 @@
+.item-btn {
+    padding: 0;
+    border: 0;
+    margin-left: 3px;
+    background: white;
+    cursor: pointer;
+    outline: none;
+}
+
+.material-icons {
+    font-size: 10px;
+    display: block;
+
+}
+
+.item-list {
+    padding: 20px 25px;
+    border-bottom: 1px solid #eeeeee;
+}

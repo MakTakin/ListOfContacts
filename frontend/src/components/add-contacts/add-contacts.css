@@ -1,0 +1,45 @@
+.add {
+    background: white;
+    max-width: 320px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+    border-radius: 5px;
+}
+
+.add-header {
+    border-bottom: 1px solid #eeeeee;
+    padding: 25px ;
+}
+
+.add-flex {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 20px 25px 25px 25px;
+}
+
+.add-flex input {
+    margin-bottom: 10px;
+    border: 1px solid #eeeeee;
+    border-radius: 8px;
+    padding: 15px 0 15px 15px;
+    outline-color: #4d59a1;
+}
+
+.add-btn {
+    margin-top: 5px;
+    align-self: flex-end;
+    background: #4d59a1;
+    padding: 15px 15px 12px 15px;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.test {
+        background: #4d59a1;
+    padding: 15px 15px 12px 15px;
+}
+

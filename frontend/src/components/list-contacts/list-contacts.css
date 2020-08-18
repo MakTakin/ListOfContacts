@@ -1,0 +1,11 @@
+.list {
+    background: white;
+    max-width: 320px;
+    margin: 0 auto 50px auto;
+    border-radius: 5px;
+}
+
+.list-header {
+    border-bottom: 1px solid #eeeeee;
+    padding: 25px;
+}

@@ -1,0 +1,9 @@
+.container {
+    max-width: 1440px;
+    margin:0 auto;
+
+    padding-top: 100px;
+
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
